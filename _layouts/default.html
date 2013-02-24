@@ -9,9 +9,12 @@
     </head>
     <body>
       <div class="page">
-        <div class="nav">
-          <a href="/">&larr; go back home</a>
-        </div>
+        {% if page.title != 'What do you want to do?' %}
+          <div class="nav">
+            <a href="../">&larr; go back home</a>
+          </div>
+        {% endif %}
+        
         <h1>{{ page.title }}</h1>
         {{ content }}
       </div>
