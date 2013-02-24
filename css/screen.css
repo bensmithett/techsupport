@@ -1,0 +1,14 @@
+.page {
+  margin: 0 auto;
+  padding: 0 1em;
+  max-width: 45em;
+}
+
+.nav {
+  border-bottom: 1px solid #eee;
+  padding: 1em 0;
+}
+
+li {
+  margin: 0 0 1em;
+}
