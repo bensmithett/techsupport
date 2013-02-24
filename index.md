@@ -9,3 +9,5 @@ title: What do you want to do?
   - [Buy music on iTunes](buy_music.html)
   - [Buy iPad apps](buy_apps.html)
   - [Sync the iPod](sync_ipod.html)
+
+- Show off my son's [amazing videos](http://vimeo.com/bensmithett)
